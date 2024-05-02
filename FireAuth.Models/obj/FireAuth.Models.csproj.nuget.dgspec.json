@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Models/FireAuth.Models.csproj": {}
+  },
+  "projects": {
+    "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Domain/FireAuth.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Domain/FireAuth.Domain.csproj",
+        "projectName": "FireAuth.Domain",
+        "projectPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Domain/FireAuth.Domain.csproj",
+        "packagesPath": "/home/christian/.nuget/packages/",
+        "outputPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/christian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/FireAuth.Repository.csproj": {
+                "projectPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/FireAuth.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Models/FireAuth.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Models/FireAuth.Models.csproj",
+        "projectName": "FireAuth.Models",
+        "projectPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Models/FireAuth.Models.csproj",
+        "packagesPath": "/home/christian/.nuget/packages/",
+        "outputPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/christian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Domain/FireAuth.Domain.csproj": {
+                "projectPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Domain/FireAuth.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/FireAuth.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/FireAuth.Repository.csproj",
+        "projectName": "FireAuth.Repository",
+        "projectPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/FireAuth.Repository.csproj",
+        "packagesPath": "/home/christian/.nuget/packages/",
+        "outputPath": "/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/christian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

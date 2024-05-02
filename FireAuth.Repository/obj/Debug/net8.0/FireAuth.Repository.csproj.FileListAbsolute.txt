@@ -1,0 +1,12 @@
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/bin/Debug/net8.0/FireAuth.Repository.deps.json
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/bin/Debug/net8.0/FireAuth.Repository.dll
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/bin/Debug/net8.0/FireAuth.Repository.pdb
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/FireAuth.Repository.csproj.AssemblyReference.cache
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/FireAuth.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/FireAuth.Repository.AssemblyInfoInputs.cache
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/FireAuth.Repository.AssemblyInfo.cs
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/FireAuth.Repository.csproj.CoreCompileInputs.cache
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/FireAuth.Repository.dll
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/refint/FireAuth.Repository.dll
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/FireAuth.Repository.pdb
+/home/christian/Escritorio/trabajos/dotnet/FireAuth.Function/FireAuth.Repository/obj/Debug/net8.0/ref/FireAuth.Repository.dll
